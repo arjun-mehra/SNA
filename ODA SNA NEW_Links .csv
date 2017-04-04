@@ -1,0 +1,820 @@
+from_name,to_name,strength,network
+Avik,Santhosh,3,Work
+Avik,Sujata,3,Work
+Avik,Aubrey,3,Work
+Avik,Swathi,3,Work
+Avik,Damini,1,Work
+Avik,Hemant,3,Work
+Avik,Ifrah,2,Work
+Avik,Sharmila,2,Work
+Avik,Karan,2,Work
+Avik,Priyanka,2,Work
+Avik,Murali,2,Work
+Avik,Sunil,3,Work
+Ifrah,Santhosh,4,Work
+Ifrah,Sujata,2,Work
+Ifrah,Swathi,4,Work
+Ifrah,Damini,4,Work
+Ifrah,Hemant,1,Work
+Ifrah,Avik,2,Work
+Ifrah,Sharmila,4,Work
+Ifrah,Karan,1,Work
+Ifrah,Priyanka,2,Work
+Ifrah,Sunil,1,Work
+Damini,Santhosh,4,Work
+Damini,Sujata,1,Work
+Damini,Aubrey,1,Work
+Damini,Swathi,2,Work
+Damini,Hemant,1,Work
+Damini,Ifrah,2,Work
+Damini,Avik,1,Work
+Damini,Sharmila,2,Work
+Damini,Karan,2,Work
+Damini,Priyanka,2,Work
+Damini,Murali,1,Work
+Damini,Sunil,3,Work
+Hemant,Santhosh,3,Work
+Hemant,Sujata,1,Work
+Hemant,Aubrey,1,Work
+Hemant,Swathi,2,Work
+Hemant,Damini,1,Work
+Hemant,Ifrah,2,Work
+Hemant,Avik,3,Work
+Hemant,Sharmila,2,Work
+Hemant,Karan,2,Work
+Hemant,Priyanka,1,Work
+Hemant,Murali,1,Work
+Hemant,Sunil,2,Work
+Aubrey,Santhosh,2,Work
+Aubrey,Sujata,3,Work
+Aubrey,Swathi,3,Work
+Aubrey,Damini,1,Work
+Aubrey,Ifrah,1,Work
+Aubrey,Avik,2,Work
+Aubrey,Priyanka,1,Work
+Aubrey,Murali,3,Work
+Aubrey,Sunil,2,Work
+Santhosh,Sujata,4,Work
+Santhosh,Aubrey,3,Work
+Santhosh,Swathi,3,Work
+Santhosh,Damini,3,Work
+Santhosh,Hemant,1,Work
+Santhosh,Ifrah,3,Work
+Santhosh,Avik,2,Work
+Santhosh,Sharmila,1,Work
+Santhosh,Karan,1,Work
+Santhosh,Priyanka,1,Work
+Santhosh,Murali,1,Work
+Santhosh,Sunil,1,Work
+Sharmila,Santhosh,3,Work
+Sharmila,Sujata,4,Work
+Sharmila,Swathi,4,Work
+Sharmila ,Damini,2,Work
+Sharmila,Hemant,1,Work
+Sharmila,Ifrah,4,Work
+Sharmila,Avik,3,Work
+Sharmila ,Karan,1,Work
+Sharmila,Priyanka,2,Work
+Sharmila,Murali,1,Work
+Sharmila,Sunil,1,Work
+Priyanka,Santhosh,2,Work
+Priyanka,Sujata,4,Work
+Priyanka,Swathi,1,Work
+Priyanka,Damini,2,Work
+Priyanka,Ifrah,2,Work
+Priyanka,Avik,1,Work
+Priyanka,Sharmila,3,Work
+Priyanka,Karan,1,Work
+Sunil,Santhosh,3,Work
+Sunil,Sujata,3,Work
+Sunil,Aubrey,2,Work
+Sunil,Swathi,2,Work
+Sunil,Damini,3,Work
+Sunil,Ifrah,2,Work
+Sunil,Avik,3,Work
+Sunil,Sharmila,2,Work
+Sunil,Priyanka,2,Work
+Sunil,Murali,4,Work
+Murali,Santhosh,3,Work
+Murali,Damini,3,Work
+Murali,Sunil,3,Work
+Karan,Santhosh,4,Work
+Karan,Sujata,2,Work
+Karan,Aubrey,1,Work
+Karan,Swathi,2,Work
+Karan,Damini,1,Work
+Karan,Hemant,1,Work
+Karan,Ifrah,4,Work
+Karan,Avik,1,Work
+Karan,Sharmila,2,Work
+Karan,Priyanka,3,Work
+Karan,Murali,2,Work
+Karan,Sunil,2,Work
+Swathi,Santhosh,4,Work
+Swathi,Sujata,2,Work
+Swathi,Aubrey,1,Work
+Swathi,Damini,2,Work
+Swathi,Ifrah,4,Work
+Swathi,Avik,2,Work
+Swathi,Sharmila,2,Work
+Swathi,Karan,1,Work
+Swathi,Priyanka,1,Work
+Swathi,Murali,1,Work
+Swathi,Sunil,1,Work
+Sujata,Santhosh,4,Work
+Sujata,Aubrey,3,Work
+Sujata,Swathi,3,Work
+Sujata,Damini,2,Work
+Sujata,Hemant,1,Work
+Sujata,Ifrah,3,Work
+Sujata,Avik,2,Work
+Sujata,Sharmila,3,Work
+Sujata,Karan,2,Work
+Sujata,Priyanka,4,Work
+Sujata,Murali,1,Work
+Sujata,Sunil,2,Work
+Avik,Santhosh,4,Social
+Avik,Sujata,4,Social
+Avik,Aubrey,2,Social
+Avik,Swathi,4,Social
+Avik,Damini,1,Social
+Avik,Hemant,1,Social
+Avik,Ifrah,1,Social
+Avik,Sharmila,3,Social
+Avik,Karan,1,Social
+Avik,Priyanka,1,Social
+Avik,Murali,2,Social
+Avik,Sunil,3,Social
+Ifrah,Santhosh,4,Social
+Ifrah,Sujata,2,Social
+Ifrah,Swathi,4,Social
+Ifrah,Damini,3,Social
+Ifrah,Hemant,2,Social
+Ifrah,Avik,3,Social
+Ifrah,Sharmila,4,Social
+Ifrah,Priyanka,3,Social
+Ifrah,Murali,1,Social
+Ifrah,Sunil,3,Social
+Damini,Santhosh,3,Social
+Damini,Sujata,3,Social
+Damini,Swathi,3,Social
+Damini,Ifrah,3,Social
+Damini,Sharmila,3,Social
+Damini,Karan,3,Social
+Damini,Priyanka,3,Social
+Damini,Murali,3,Social
+Hemant,Santhosh,3,Social
+Hemant,Aubrey,2,Social
+Hemant,Swathi,3,Social
+Hemant,Damini,2,Social
+Hemant,Ifrah,3,Social
+Hemant,Avik,3,Social
+Hemant,Sharmila,3,Social
+Hemant,Karan,2,Social
+Hemant,Murali,2,Social
+Hemant,Sunil,2,Social
+Aubrey,Santhosh,2,Social
+Aubrey,Sujata,2,Social
+Aubrey,Swathi,3,Social
+Aubrey,Damini,1,Social
+Aubrey,Hemant,1,Social
+Aubrey,Ifrah,1,Social
+Aubrey,Avik,2,Social
+Aubrey,Priyanka,1,Social
+Aubrey,Murali,2,Social
+Aubrey,Sunil,2,Social
+Santhosh,Sujata,1,Social
+Santhosh,Aubrey,1,Social
+Santhosh,Swathi,1,Social
+Santhosh,Damini,1,Social
+Santhosh,Hemant,1,Social
+Santhosh,Ifrah,1,Social
+Santhosh,Avik,1,Social
+Santhosh,Sharmila,1,Social
+Santhosh,Karan,1,Social
+Santhosh,Priyanka,1,Social
+Santhosh,Murali,1,Social
+Santhosh,Sunil,1,Social
+Sharmila,Santhosh,3,Social
+Sharmila,Sujata,3,Social
+Sharmila,Swathi,4,Social
+Sharmila,Hemant,2,Social
+Sharmila,Ifrah,4,Social
+Sharmila,Avik,3,Social
+Sharmila,Karan,2,Social
+Sharmila,Priyanka,1,Social
+Sharmila,Murali,2,Social
+Sharmila,Sunil,2,Social
+Priyanka,Santhosh,1,Social
+Priyanka,Sujata,4,Social
+Priyanka,Swathi,1,Social
+Priyanka,Damini,2,Social
+Priyanka,Ifrah,3,Social
+Priyanka,Avik,1,Social
+Priyanka,Sharmila,3,Social
+Priyanka,Murali,1,Social
+Priyanka,Sunil,1,Social
+Sunil,Santhosh,4,Social
+Sunil,Sujata,3,Social
+Sunil,Aubrey,1,Social
+Sunil,Swathi,2,Social
+Sunil,Damini,4,Social
+Sunil,Ifrah,2,Social
+Sunil,Avik,1,Social
+Sunil,Sharmila,1,Social
+Sunil,Murali,3,Social
+Murali,Santhosh,3,Social
+Murali,Damini,3,Social
+Karan,Santhosh,4,Social
+Karan,Sujata,4,Social
+Karan,Swathi,4,Social
+Karan,Damini,1,Social
+Karan,Hemant,2,Social
+Karan,Ifrah,4,Social
+Karan,Avik,2,Social
+Karan,Sharmila,2,Social
+Karan,Priyanka,2,Social
+Karan,Murali,2,Social
+Swathi,Santhosh,3,Social
+Swathi,Sujata,2,Social
+Swathi,Aubrey,2,Social
+Swathi,Damini,2,Social
+Swathi,Ifrah,3,Social
+Swathi,Avik,3,Social
+Swathi,Sharmila,2,Social
+Swathi,Karan,1,Social
+Swathi,Priyanka,1,Social
+Swathi,Murali,1,Social
+Swathi,Sunil,1,Social
+Sujata,Santhosh,4,Social
+Sujata,Aubrey,2,Social
+Sujata,Swathi,4,Social
+Sujata,Damini,1,Social
+Sujata,Hemant,1,Social
+Sujata,Ifrah,3,Social
+Sujata,Avik,2,Social
+Sujata,Sharmila,3,Social
+Sujata,Karan,2,Social
+Sujata,Priyanka,4,Social
+Sujata,Murali,2,Social
+Sujata,Sunil,2,Social
+Avik,Santhosh,2,Idea
+Avik,Sujata,2,Idea
+Avik,Aubrey,1,Idea
+Avik,Swathi,1,Idea
+Ifrah,Santhosh,4,Idea
+Ifrah,Sujata,2,Idea
+Ifrah,Swathi,4,Idea
+Ifrah,Damini,4,Idea
+Ifrah,Hemant,2,Idea
+Ifrah,Avik,2,Idea
+Ifrah,Sharmila,4,Idea
+Ifrah,Priyanka,2,Idea
+Damini,Santhosh,4,Idea
+Damini,Sujata,2,Idea
+Damini,Aubrey,2,Idea
+Damini,Swathi,3,Idea
+Damini,Hemant,1,Idea
+Damini,Ifrah,3,Idea
+Damini,Avik,1,Idea
+Damini,Sharmila,2,Idea
+Damini,Karan,2,Idea
+Damini,Priyanka,3,Idea
+Damini,Murali,2,Idea
+Damini,Sunil,3,Idea
+Hemant,Santhosh,3,Idea
+Hemant,Sujata,1,Idea
+Hemant,Aubrey,1,Idea
+Hemant,Swathi,2,Idea
+Hemant,Ifrah,1,Idea
+Hemant,Avik,3,Idea
+Hemant,Sharmila,1,Idea
+Hemant,Karan,2,Idea
+Aubrey,Santhosh,2,Idea
+Aubrey,Sujata,3,Idea
+Aubrey,Swathi,3,Idea
+Aubrey,Damini,1,Idea
+Aubrey,Hemant,1,Idea
+Aubrey,Avik,2,Idea
+Aubrey,Priyanka,1,Idea
+Aubrey,Murali,2,Idea
+Aubrey,Sunil,2,Idea
+Santhosh,Sujata,3,Idea
+Santhosh,Aubrey,2,Idea
+Santhosh,Swathi,3,Idea
+Santhosh,Damini,4,Idea
+Santhosh,Hemant,1,Idea
+Santhosh,Ifrah,2,Idea
+Santhosh,Avik,2,Idea
+Santhosh,Sharmila,1,Idea
+Santhosh,Karan,1,Idea
+Santhosh,Priyanka,1,Idea
+Santhosh,Murali,1,Idea
+Santhosh,Sunil,2,Idea
+Sharmila,Santhosh,3,Idea
+Sharmila,Sujata,3,Idea
+Sharmila,Swathi,4,Idea
+Sharmila,Damini,2,Idea
+Sharmila,Hemant,1,Idea
+Sharmila,Ifrah,4,Idea
+Sharmila,Avik,2,Idea
+Sharmila,Karan,2,Idea
+Sharmila,Priyanka,1,Idea
+Sharmila,Murali,1,Idea
+Sharmila,Sunil,1,Idea
+Priyanka,Santhosh,1,Idea
+Priyanka,Sujata,4,Idea
+Priyanka,Swathi,2,Idea
+Priyanka,Damini,2,Idea
+Priyanka,Ifrah,2,Idea
+Priyanka,Avik,2,Idea
+Priyanka,Sharmila,2,Idea
+Priyanka,Karan,1,Idea
+Priyanka,Sunil,1,Idea
+Sunil,Santhosh,4,Idea
+Sunil,Sujata,3,Idea
+Sunil,Aubrey,2,Idea
+Sunil,Swathi,2,Idea
+Sunil,Damini,4,Idea
+Sunil,Ifrah,2,Idea
+Sunil,Avik,3,Idea
+Sunil,Murali,3,Idea
+Murali,Santhosh,2,Idea
+Murali,Damini,2,Idea
+Murali,Sunil,3,Idea
+Karan,Santhosh,3,Idea
+Karan,Sujata,2,Idea
+Karan,Swathi,2,Idea
+Karan,Ifrah,1,Idea
+Swathi,Santhosh,3,Idea
+Swathi,Sujata,2,Idea
+Swathi,Aubrey,2,Idea
+Swathi,Damini,2,Idea
+Swathi,Hemant,1,Idea
+Swathi,Ifrah,2,Idea
+Swathi,Avik,3,Idea
+Swathi,Sharmila,2,Idea
+Swathi,Karan,1,Idea
+Swathi,Priyanka,1,Idea
+Swathi,Murali,1,Idea
+Swathi,Sunil,1,Idea
+Sujata,Santhosh,4,Idea
+Sujata,Aubrey,2,Idea
+Sujata,Swathi,3,Idea
+Sujata,Damini,2,Idea
+Sujata,Hemant,1,Idea
+Sujata,Ifrah,3,Idea
+Sujata,Avik,2,Idea
+Sujata,Sharmila,3,Idea
+Sujata,Karan,2,Idea
+Sujata,Priyanka,4,Idea
+Sujata,Murali,1,Idea
+Sujata,Sunil,1,Idea
+Avik,Santhosh,4,Expert
+Avik,Sujata,3,Expert
+Avik,Aubrey,3,Expert
+Avik,Swathi,1,Expert
+Avik,Karan,1,Expert
+Avik,Sunil,1,Expert
+Ifrah,Santhosh,4,Expert
+Ifrah,Sujata,2,Expert
+Ifrah,Aubrey,2,Expert
+Ifrah,Swathi,4,Expert
+Ifrah,Damini,4,Expert
+Ifrah,Hemant,1,Expert
+Ifrah,Avik,3,Expert
+Ifrah,Sharmila,4,Expert
+Ifrah,Karan,1,Expert
+Ifrah,Priyanka,3,Expert
+Ifrah,Sunil,1,Expert
+Damini,Santhosh,4,Expert
+Damini,Sujata,2,Expert
+Damini,Aubrey,2,Expert
+Damini,Swathi,3,Expert
+Damini,Ifrah,2,Expert
+Damini,Sunil,2,Expert
+Hemant,Santhosh,3,Expert
+Hemant,Sujata,1,Expert
+Hemant,Aubrey,2,Expert
+Hemant,Swathi,2,Expert
+Hemant,Damini,1,Expert
+Hemant,Ifrah,2,Expert
+Hemant,Avik,3,Expert
+Hemant,Sharmila,2,Expert
+Hemant,Karan,2,Expert
+Aubrey,Santhosh,3,Expert
+Aubrey,Sujata,3,Expert
+Aubrey,Swathi,3,Expert
+Aubrey,Damini,1,Expert
+Aubrey,Ifrah,1,Expert
+Aubrey,Avik,2,Expert
+Aubrey,Murali,1,Expert
+Aubrey,Sunil,1,Expert
+Santhosh,Sujata,3,Expert
+Santhosh,Aubrey,2,Expert
+Santhosh,Swathi,2,Expert
+Santhosh,Damini,2,Expert
+Santhosh,Hemant,1,Expert
+Santhosh,Ifrah,2,Expert
+Santhosh,Avik,2,Expert
+Santhosh,Sharmila,1,Expert
+Santhosh,Karan,1,Expert
+Santhosh,Priyanka,1,Expert
+Santhosh,Murali,1,Expert
+Santhosh,Sunil,2,Expert
+Sharmila,Santhosh,4,Expert
+Sharmila,Sujata,4,Expert
+Sharmila,Swathi,2,Expert
+Sharmila,Damini,1,Expert
+Sharmila,Ifrah,2,Expert
+Sharmila,Avik,2,Expert
+Sharmila,Karan,2,Expert
+Priyanka,Santhosh,2,Expert
+Priyanka,Sujata,4,Expert
+Priyanka,Swathi,2,Expert
+Priyanka,Damini,2,Expert
+Priyanka,Ifrah,3,Expert
+Priyanka,Avik,2,Expert
+Priyanka,Sharmila,2,Expert
+Priyanka,Murali,1,Expert
+Priyanka,Sunil,1,Expert
+Sunil,Santhosh,4,Expert
+Sunil,Sujata,3,Expert
+Sunil,Aubrey,3,Expert
+Sunil,Swathi,3,Expert
+Sunil,Damini,4,Expert
+Sunil,Avik,3,Expert
+Sunil,Sharmila,2,Expert
+Sunil,Murali,4,Expert
+Murali,Santhosh,2,Expert
+Murali,Damini,2,Expert
+Karan,Santhosh,3,Expert
+Karan,Sujata,3,Expert
+Karan,Swathi,3,Expert
+Karan,Ifrah,3,Expert
+Karan,Sharmila,1,Expert
+Swathi,Santhosh,4,Expert
+Swathi,Sujata,3,Expert
+Swathi,Aubrey,2,Expert
+Swathi,Damini,3,Expert
+Swathi,Hemant,1,Expert
+Swathi,Ifrah,2,Expert
+Swathi,Avik,2,Expert
+Swathi,Sharmila,2,Expert
+Swathi,Karan,1,Expert
+Swathi,Priyanka,1,Expert
+Swathi,Murali,1,Expert
+Swathi,Sunil,1,Expert
+Sujata,Santhosh,4,Expert
+Sujata,Aubrey,2,Expert
+Sujata,Swathi,3,Expert
+Sujata,Damini,2,Expert
+Sujata,Ifrah,2,Expert
+Sujata,Avik,2,Expert
+Sujata,Sharmila,2,Expert
+Sujata,Karan,1,Expert
+Sujata,Priyanka,1,Expert
+Sujata,Murali,1,Expert
+Sujata,Sunil,1,Expert
+Avik,Santhosh,3,Advice
+Avik,Sujata,3,Advice
+Avik,Aubrey,2,Advice
+Ifrah,Santhosh,3,Advice
+Ifrah,Sujata,2,Advice
+Ifrah,Swathi,4,Advice
+Ifrah,Damini,4,Advice
+Ifrah,Hemant,2,Advice
+Ifrah,Avik,3,Advice
+Ifrah,Sharmila,4,Advice
+Ifrah,Priyanka,2,Advice
+Ifrah,Sunil,1,Advice
+Damini,Santhosh,2,Advice
+Damini,Sujata,2,Advice
+Hemant,Santhosh,2,Advice
+Hemant,Aubrey,1,Advice
+Hemant,Avik,2,Advice
+Aubrey,Santhosh,2,Advice
+Aubrey,Sujata,2,Advice
+Aubrey,Swathi,1,Advice
+Aubrey,Damini,1,Advice
+Aubrey,Avik,1,Advice
+Aubrey,Murali,1,Advice
+Aubrey,Sunil,1,Advice
+Santhosh,Sujata,2,Advice
+Santhosh,Aubrey,2,Advice
+Santhosh,Damini,2,Advice
+Santhosh,Avik,1,Advice
+Santhosh,Sharmila,1,Advice
+Sharmila,Santhosh,3,Advice
+Sharmila,Sujata,3,Advice
+Priyanka,Santhosh,2,Advice
+Priyanka,Sujata,4,Advice
+Sunil,Santhosh,4,Advice
+Sunil,Sujata,2,Advice
+Sunil,Aubrey,3,Advice
+Sunil,Swathi,2,Advice
+Sunil,Damini,4,Advice
+Sunil,Ifrah,1,Advice
+Sunil,Avik,3,Advice
+Sunil,Sharmila,1,Advice
+Sunil,Murali,4,Advice
+Murali,Santhosh,2,Advice
+Karan,Santhosh,1,Advice
+Swathi,Santhosh,3,Advice
+Swathi,Sujata,1,Advice
+Swathi,Aubrey,2,Advice
+Swathi,Damini,2,Advice
+Swathi,Ifrah,2,Advice
+Swathi,Avik,2,Advice
+Sujata,Santhosh,3,Advice
+Avik,Santhosh,1,Learning
+Avik,Sujata,2,Learning
+Avik,Sunil,1,Learning
+Ifrah,Santhosh,4,Learning
+Ifrah,Sujata,4,Learning
+Ifrah,Aubrey,4,Learning
+Ifrah,Swathi,4,Learning
+Ifrah,Damini,4,Learning
+Ifrah,Hemant,4,Learning
+Ifrah,Avik,4,Learning
+Ifrah,Sharmila,4,Learning
+Ifrah,Karan,4,Learning
+Ifrah,Priyanka,4,Learning
+Ifrah,Murali,4,Learning
+Ifrah,Sunil,4,Learning
+Damini,Swathi,3,Learning
+Damini,Priyanka,3,Learning
+Damini,Murali,4,Learning
+Damini,Sunil,4,Learning
+Hemant,Santhosh,2,Learning
+Hemant,Sujata,1,Learning
+Hemant,Aubrey,2,Learning
+Hemant,Swathi,2,Learning
+Hemant,Damini,1,Learning
+Hemant,Ifrah,2,Learning
+Hemant,Avik,2,Learning
+Hemant,Sharmila,2,Learning
+Hemant,Karan,1,Learning
+Hemant,Priyanka,1,Learning
+Hemant,Murali,1,Learning
+Hemant,Sunil,1,Learning
+Aubrey,Santhosh,2,Learning
+Aubrey,Sujata,2,Learning
+Aubrey,Swathi,2,Learning
+Aubrey,Damini,1,Learning
+Aubrey,Avik,1,Learning
+Aubrey,Priyanka,1,Learning
+Aubrey,Murali,1,Learning
+Aubrey,Sunil,1,Learning
+Santhosh,Sujata,4,Learning
+Santhosh,Aubrey,3,Learning
+Santhosh,Swathi,3,Learning
+Santhosh,Damini,4,Learning
+Santhosh,Hemant,1,Learning
+Santhosh,Ifrah,3,Learning
+Santhosh,Avik,3,Learning
+Santhosh,Sharmila,1,Learning
+Santhosh,Karan,1,Learning
+Santhosh,Priyanka,1,Learning
+Santhosh,Murali,2,Learning
+Santhosh,Sunil,1,Learning
+Sharmila,Santhosh,3,Learning
+Sharmila,Sujata,2,Learning
+Sharmila,Swathi,4,Learning
+Sharmila,Hemant,1,Learning
+Sharmila,Ifrah,4,Learning
+Sharmila,Avik,2,Learning
+Sharmila,Karan,1,Learning
+Sharmila,Murali,1,Learning
+Sharmila,Sunil,1,Learning
+Priyanka,Santhosh,1,Learning
+Priyanka,Sujata,3,Learning
+Priyanka,Swathi,1,Learning
+Priyanka,Damini,1,Learning
+Priyanka,Sunil,1,Learning
+Sunil,Santhosh,3,Learning
+Sunil,Sujata,3,Learning
+Sunil,Aubrey,2,Learning
+Sunil,Swathi,3,Learning
+Sunil,Damini,3,Learning
+Sunil,Ifrah,1,Learning
+Sunil,Avik,2,Learning
+Sunil,Sharmila,2,Learning
+Sunil,Murali,3,Learning
+Murali,Santhosh,3,Learning
+Murali,Damini,3,Learning
+Murali,Sunil,3,Learning
+Karan,Ifrah,1,Learning
+Karan,Avik,1,Learning
+Swathi,Santhosh,3,Learning
+Swathi,Sujata,2,Learning
+Swathi,Aubrey,1,Learning
+Swathi,Damini,3,Learning
+Swathi,Hemant,1,Learning
+Swathi,Ifrah,3,Learning
+Swathi,Avik,2,Learning
+Swathi,Sharmila,2,Learning
+Swathi,Karan,1,Learning
+Swathi,Priyanka,1,Learning
+Swathi,Murali,1,Learning
+Swathi,Sunil,2,Learning
+Sujata,Santhosh,3,Learning
+Sujata,Aubrey,1,Learning
+Sujata,Swathi,3,Learning
+Sujata,Damini,3,Learning
+Sujata,Ifrah,2,Learning
+Sujata,Avik,1,Learning
+Sujata,Sharmila,2,Learning
+Sujata,Karan,1,Learning
+Sujata,Priyanka,3,Learning
+Sujata,Murali,2,Learning
+Sujata,Sunil,2,Learning
+Avik,Santhosh,2,Decision Making
+Avik,Sujata,1,Decision Making
+Ifrah,Santhosh,4,Decision Making
+Ifrah,Sujata,3,Decision Making
+Ifrah,Swathi,4,Decision Making
+Ifrah,Damini,4,Decision Making
+Ifrah,Avik,2,Decision Making
+Ifrah,Sharmila,2,Decision Making
+Ifrah,Sunil,1,Decision Making
+Damini,Santhosh,4,Decision Making
+Hemant,Santhosh,3,Decision Making
+Hemant,Sujata,1,Decision Making
+Hemant,Aubrey,1,Decision Making
+Hemant,Swathi,2,Decision Making
+Hemant,Damini,1,Decision Making
+Hemant,Ifrah,1,Decision Making
+Hemant,Avik,3,Decision Making
+Hemant,Sharmila,1,Decision Making
+Hemant,Karan,1,Decision Making
+Hemant,Priyanka,1,Decision Making
+Hemant,Murali,1,Decision Making
+Hemant,Sunil,1,Decision Making
+Aubrey,Santhosh,3,Decision Making
+Aubrey,Swathi,2,Decision Making
+Aubrey,Damini,1,Decision Making
+Aubrey,Avik,2,Decision Making
+Sharmila,Santhosh,4,Decision Making
+Sharmila,Sujata,4,Decision Making
+Sharmila,Swathi,2,Decision Making
+Sharmila,Damini,1,Decision Making
+Sharmila,Hemant,1,Decision Making
+Sharmila,Ifrah,2,Decision Making
+Sharmila,Avik,2,Decision Making
+Sharmila,Karan,2,Decision Making
+Sharmila,Murali,1,Decision Making
+Priyanka,Santhosh,2,Decision Making
+Priyanka,Sujata,4,Decision Making
+Priyanka,Damini,2,Decision Making
+Priyanka,Murali,1,Decision Making
+Sunil,Santhosh,4,Decision Making
+Sunil,Sujata,4,Decision Making
+Sunil,Aubrey,3,Decision Making
+Sunil,Swathi,3,Decision Making
+Sunil,Damini,4,Decision Making
+Sunil,Ifrah,2,Decision Making
+Sunil,Avik,4,Decision Making
+Sunil,Sharmila,1,Decision Making
+Sunil,Murali,4,Decision Making
+Murali,Santhosh,3,Decision Making
+Murali,Damini,3,Decision Making
+Murali,Sunil,2,Decision Making
+Karan,Santhosh,3,Decision Making
+Karan,Sujata,3,Decision Making
+Karan,Swathi,3,Decision Making
+Karan,Ifrah,3,Decision Making
+Karan,Sharmila,3,Decision Making
+Swathi,Santhosh,4,Decision Making
+Swathi,Sujata,3,Decision Making
+Swathi,Aubrey,2,Decision Making
+Swathi,Damini,2,Decision Making
+Swathi,Hemant,1,Decision Making
+Swathi,Ifrah,1,Decision Making
+Swathi,Avik,2,Decision Making
+Swathi,Sharmila,1,Decision Making
+Swathi,Karan,1,Decision Making
+Swathi,Priyanka,1,Decision Making
+Swathi,Murali,2,Decision Making
+Swathi,Sunil,1,Decision Making
+Sujata,Santhosh,3,Decision Making
+Sujata,Aubrey,1,Decision Making
+Sujata,Swathi,1,Decision Making
+Sujata,Damini,1,Decision Making
+Sujata,Hemant,1,Decision Making
+Sujata,Ifrah,1,Decision Making
+Sujata,Avik,1,Decision Making
+Sujata,Sharmila,1,Decision Making
+Sujata,Karan,1,Decision Making
+Sujata,Priyanka,1,Decision Making
+Sujata,Murali,1,Decision Making
+Sujata,Sunil,1,Decision Making
+Avik,Santhosh,4,Information
+Avik,Sujata,4,Information
+Avik,Aubrey,2,Information
+Avik,Swathi,1,Information
+Avik,Sunil,1,Information
+Ifrah,Santhosh,4,Information
+Ifrah,Sujata,4,Information
+Ifrah,Aubrey,4,Information
+Ifrah,Swathi,4,Information
+Ifrah,Damini,4,Information
+Ifrah,Hemant,2,Information
+Ifrah,Avik,4,Information
+Ifrah,Sharmila,1,Information
+Ifrah,Karan,1,Information
+Ifrah,Priyanka,1,Information
+Ifrah,Sunil,4,Information
+Damini,Santhosh,3,Information
+Damini,Sujata,1,Information
+Damini,Aubrey,2,Information
+Damini,Swathi,3,Information
+Damini,Ifrah,3,Information
+Damini,Priyanka,3,Information
+Damini,Sunil,3,Information
+Hemant,Santhosh,3,Information
+Hemant,Sujata,2,Information
+Hemant,Swathi,2,Information
+Hemant,Damini,1,Information
+Hemant,Avik,3,Information
+Aubrey,Santhosh,2,Information
+Aubrey,Sujata,2,Information
+Aubrey,Swathi,2,Information
+Aubrey,Avik,1,Information
+Aubrey,Priyanka,1,Information
+Aubrey,Murali,1,Information
+Aubrey,Sunil,1,Information
+Santhosh,Sujata,3,Information
+Santhosh,Aubrey,3,Information
+Santhosh,Swathi,3,Information
+Santhosh,Damini,3,Information
+Santhosh,Hemant,3,Information
+Santhosh,Ifrah,3,Information
+Santhosh,Avik,2,Information
+Santhosh,Sharmila,1,Information
+Santhosh,Karan,2,Information
+Santhosh,Priyanka,1,Information
+Santhosh,Murali,1,Information
+Santhosh,Sunil,1,Information
+Sharmila,Santhosh,4,Information
+Sharmila,Sujata,4,Information
+Sharmila,Swathi,3,Information
+Sharmila,Damini,2,Information
+Sharmila,Ifrah,3,Information
+Sharmila,Avik,1,Information
+Priyanka,Santhosh,2,Information
+Priyanka,Sujata,4,Information
+Priyanka,Swathi,1,Information
+Priyanka,Damini,3,Information
+Priyanka,Ifrah,1,Information
+Priyanka,Avik,1,Information
+Priyanka,Sharmila,1,Information
+Priyanka,Karan,1,Information
+Sunil,Santhosh,4,Information
+Sunil,Sujata,4,Information
+Sunil,Aubrey,3,Information
+Sunil,Swathi,3,Information
+Sunil,Damini,4,Information
+Sunil,Ifrah,1,Information
+Sunil,Avik,3,Information
+Sunil,Sharmila,1,Information
+Sunil,Priyanka,1,Information
+Sunil,Murali,4,Information
+Murali,Santhosh,3,Information
+Murali,Sujata,2,Information
+Murali,Aubrey,2,Information
+Murali,Swathi,2,Information
+Murali,Damini,2,Information
+Murali,Avik,2,Information
+Murali,Sunil,4,Information
+Karan,Santhosh,3,Information
+Karan,Sujata,3,Information
+Karan,Swathi,3,Information
+Karan,Damini,1,Information
+Karan,Hemant,1,Information
+Karan,Ifrah,4,Information
+Karan,Avik,3,Information
+Karan,Sharmila,3,Information
+Karan,Priyanka,2,Information
+Karan,Murali,1,Information
+Karan,Sunil,1,Information
+Swathi,Santhosh,4,Information
+Swathi,Sujata,4,Information
+Swathi,Aubrey,2,Information
+Swathi,Damini,3,Information
+Swathi,Ifrah,3,Information
+Swathi,Avik,3,Information
+Swathi,Sharmila,2,Information
+Swathi,Karan,1,Information
+Swathi,Priyanka,1,Information
+Swathi,Murali,1,Information
+Swathi,Sunil,1,Information
+Sujata,Santhosh,4,Information
+Sujata,Aubrey,2,Information
+Sujata,Swathi,3,Information
+Sujata,Damini,1,Information
+Sujata,Ifrah,3,Information
+Sujata,Avik,2,Information
+Sujata,Sharmila,2,Information
+Sujata,Karan,2,Information
+Sujata,Priyanka,3,Information
